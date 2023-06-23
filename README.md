@@ -30,7 +30,11 @@ spring:
     2. [User microservice](https://github.com/ayushdgupta/SpringBoot3-User-Microservice/tree/master).
     3. [Rating microservice](https://github.com/ayushdgupta/SpringBoot3-Rating-Microservice).
     4. [API Gateway](https://github.com/ayushdgupta/SpringBoot3-APIGateway-Microservice)
-9.  Below is the Eureka Server where this Config-Server is configured -  
+9. Below is the Eureka Server where this Config-Server is configured -  
     [Eureka Server](https://github.com/ayushdgupta/SpringBoot3-Eureka-Service-Microservice)
 10. Github link of config-files -
     [Config-Files](https://github.com/ayushdgupta/SpringBoot3-ConfigFiles-ConfigServer-Microservice)
+
+
+### Imporatnt links  
+1. https://cloud.spring.io/spring-cloud-config/multi/multi__spring_cloud_config_server.html
